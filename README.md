@@ -17,4 +17,15 @@ A representation agreement for use in British Columbia, Canada. Prepared for use
 - donation of body
 - funeral wishes
 
+## Agreement Comes Into Effect
+-
+-
+
+## Termination
+-
+-
+
 ## General
+-
+-
+-
