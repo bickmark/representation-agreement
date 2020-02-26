@@ -9,3 +9,12 @@ A representation agreement for use in British Columbia, Canada. Prepared for use
 - if the representative gets paid for acting as representative
 - representative is entitled to indemnification in respect of expenses incurred carrying out duties under agreement
 - 
+
+## Wishes
+- resuscitation
+- administration of pain medication that may hasten or cause death
+- donation of organs
+- donation of body
+- funeral wishes
+
+## General
