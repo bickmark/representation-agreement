@@ -10,6 +10,8 @@ A representation agreement for use in British Columbia, Canada. Prepared for use
 - representative is entitled to indemnification in respect of expenses incurred carrying out duties under agreement
 - 
 
+## Management of Financial Affairs
+
 ## Wishes
 - resuscitation
 - administration of pain medication that may hasten or cause death
